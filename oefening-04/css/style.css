@@ -1,0 +1,38 @@
+body {text-align: center;
+font-family: Arial, Helvetica, sans-serif;}
+
+td,th {
+    min-width: 120px;
+}
+th {background-color: black;
+    color:white;
+}
+
+td {
+    text-align: center;
+}
+
+td.red {
+    background-color: red;
+    color: white;
+}
+
+td.blue {
+    background-color: blue;
+    color:white;
+}
+
+td.purple { 
+    background-color: purple;
+    color: white;
+
+}
+
+td.pink {
+    background-color: lightpink;
+    color: black;
+}
+
+table {
+    border: 1px black solid;
+}
