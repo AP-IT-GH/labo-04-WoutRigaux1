@@ -1,0 +1,13 @@
+h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+ol li:nth-child(even){
+    color:black;
+    background-color: lightgray;
+}
+
+ol li:nth-child(odd){
+   color: #0000ff;
+   background-color: white;
+}
