@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td[class*="prod"] {
+    border: 1px black solid;
+    
+}
+
+table {
+    border: 1px #000000 solid;
+}
+
+th{
+    color: white;
+    background-color: #000;
+    font-weight: bold;
+}
+
+td,th {
+    text-align: center;
+    
+}
+caption {
+    text-align: center;
+}
+
